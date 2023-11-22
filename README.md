@@ -3,7 +3,7 @@
 
 ## Overview
 
-This web project replicates the visual effect of a Processing sketch inside a web page. It utilizes HTML, CSS, and JavaScript to create a dynamic text animation with varying colors, sizes, and spacing. The animation is inspired by the original Processing sketch and is designed to run in a web browser.
+This web project is meant to pimp up a web page. It utilizes HTML, CSS, and JavaScript to create a dynamic text animation with varying colors, sizes, and spacing. The animation is designed to run in a web browser.
 
 ![Demo](page_on_fire.gif)
 
